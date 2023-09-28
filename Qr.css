@@ -1,0 +1,47 @@
+body {
+    min-width: 1440px;
+    font-family: url(https://fonts.google.com/specimen/Outfit);   
+    background-color: hsl(212, 45%, 89%);
+
+}
+#container {
+    width: min-content;    
+    background-color: hsl(0, 0%, 100%);
+    padding: 1em;
+    border-radius: 1em;
+    margin: auto;
+    margin-top: 5em;
+
+}
+#container div {
+    margin: 1em;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+div .text {
+    margin-top: 2em;
+}
+div .txt {
+    padding-top: 10px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    word-spacing: .3em;
+    text-align: center;
+}
+div .minitxt {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    word-spacing: .1em;
+    padding-bottom: 2em;
+
+}
+
+.qrBG {
+    box-sizing: border-box;
+    width: 300px;
+    border-radius: 1em;
+
+}
